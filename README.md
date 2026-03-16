@@ -4,6 +4,10 @@
 ## OrangeFox Recovery Project Oneplus 11
 ## Changelog
 
+# 16-Mar-2026 R11.3 V9
+ - Synced with latest Orangefox source changes
+ - Updated builtin Magisk to Magisk 30.6
+
 # 15-Aug-2025 R11.3 V8
  - Synced with latest Orangefox source changes
  - Updated to latest Orangefox Version R11.3
