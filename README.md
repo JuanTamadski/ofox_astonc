@@ -4,6 +4,15 @@
 ## OrangeFox Recovery Project Oneplus 11
 ## Changelog
 
+# 07-May-2026 R12.0 V11
+ - New Orangefox R12.0 with new UI look
+ - Synced with latest Orangefox R12.0 release Changes
+ - Added KernelSU addon
+
+# 03-Apr-2026 R11.3 V10
+ - Synced with latest Orangefox source changes
+ - Added KernelSU addon (experimental!) 
+
 # 16-Mar-2026 R11.3 V9
  - Synced with latest Orangefox source changes
  - Updated builtin Magisk to Magisk 30.6
