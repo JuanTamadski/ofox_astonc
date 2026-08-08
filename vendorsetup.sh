@@ -1,15 +1,15 @@
 export TARGET_ARCH="arm64-v8a"
 
 # Some about us
-export OF_MAINTAINER=Wishmasterflo
+export OF_MAINTAINER=tutel
 
 # Build environment stuffs
-export FOX_BUILD_DEVICE="OnePlus11"
+export FOX_BUILD_DEVICE="OnePlusAce3"
 export ALLOW_MISSING_DEPENDENCIES=true
 export FOX_USE_TWRP_RECOVERY_IMAGE_BUILDER=1
-export TARGET_DEVICE_ALT="salami, Salami, OnePlus11, OnePlus 11, OP591BL1, OP594DL1"
-export FOX_TARGET_DEVICES="salami, Salami, OnePlus11, OnePlus 11, OP591BL1, OP594DL1"
-export BUILD_USERNAME="nobody"
+export TARGET_DEVICE_ALT="astonc, Astonc, OnePlusAce3, OnePlus Ace 3, OP591BL1, OP594DL1"
+export FOX_TARGET_DEVICES="astonc, Astonc, OnePlusAce3, OnePlus Ace 3, OP591BL1, OP594DL1"
+export BUILD_USERNAME="tutel"
 export BUILD_HOSTNAME="android-build"
 
 # Use magisk boot for patching
